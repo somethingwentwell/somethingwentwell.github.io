@@ -76,13 +76,15 @@ Experience2:
         Details:
           - InSource is a self-hosted AI flow management platform with No-Code drag and drop UI, sophisticated control room for execution and monitoring, and customized modules for diverse business needs
           - https://insource.asia/
+        Badges: ['OpenAI', 'Langchain', 'Python', 'Cloud', 'Container']
   - Employer: Code Interpreter API
     Positions:
       - Title: Contributor
         Date: Jul 2023 - Present
         Details:
-          - A LangChain implementation of the ChatGPT Code Interpreter
+          - A LangChain implementation of the ChatGPT Code Interpreter (3k+ GitHub stars)
           - https://github.com/shroominic/codeinterpreter-api
+        Badges: ['OpenAI', 'Langchain', 'Python']
   - Employer: OpenAIPrompts (Sold to Teccelerates)
     Positions:
       - Title: Founder
@@ -90,6 +92,7 @@ Experience2:
         Details:
           - OpenAIPrompts is a platform for easy creation and sharing of GPT prompts with one-click hosting
           - https://ai.teccelerates.com/
+        Badges: ['OpenAI', 'Vue.js']
   - Employer: Microsoft
     Positions:
       - Title: Microsoft Most Valuable Professional
@@ -98,6 +101,7 @@ Experience2:
           - Represent as Microsoft technology experts who passionately share the knowledge with the community
           - Organize and deliver technical events and community activities
           - Provide technical consultation to the community
+        Badges: ['Developer Community', 'Kubernetes', 'DevOps', 'Cloud', 'AI']
   - Employer: Feva Works IT Education Centre
     Positions:
       - Title: Lead Trainer (Part-time)
@@ -106,13 +110,14 @@ Experience2:
           - Organize new regular courses
           - Lead the trainer team to deliver regular Microsoft AI & IoT courses
           - Professional Microsoft certification training - Cantonese, English & Mandarin
+        Badges: ['Cloud', 'AI', 'IoT']
   - Employer: Institute of Vocational Education
     Positions:
       - Title: Tutor (Part-time)
         Date: Jul 2017 - Sep 2018
         Details:
           - Organize and deliver Industrial Attachment Program for students (Bot development, Mobile Apps)
-
+        Badges: ['Cloud', 'AI', 'PowerApps']
 Education:
   - Course: BSc in Information Security
     Place: The Hong Kong Polytechnic University
@@ -182,6 +187,7 @@ Skills:
       - Grafana
       - Loki
       - Elastic
+      - Langchain
 
 Languages:
   - Name: Cantonese
