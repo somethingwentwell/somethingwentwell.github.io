@@ -74,9 +74,9 @@ Experience2:
       - Title: Founder
         Date: Jul 2023 - Present
         Details:
-          - InSource is a self-hosted AI flow management platform with No-Code drag and drop UI, sophisticated control room for execution and monitoring, and customized modules for diverse business needs
+          - InSource is a self-hosted AI flow management platform with no-code drag and drop UI, sophisticated control room for execution and monitoring, and customized modules for diverse business needs
           - https://insource.asia/
-        Badges: ['OpenAI', 'Langchain', 'Python', 'Cloud', 'Container']
+        Badges: ['OpenAI', 'LangChain', 'Python', 'Cloud', 'Container']
   - Employer: Code Interpreter API
     Positions:
       - Title: Contributor
@@ -84,7 +84,7 @@ Experience2:
         Details:
           - A LangChain implementation of the ChatGPT Code Interpreter (3k+ GitHub stars)
           - https://github.com/shroominic/codeinterpreter-api
-        Badges: ['OpenAI', 'Langchain', 'Python']
+        Badges: ['OpenAI', 'LangChain', 'Python']
   - Employer: OpenAIPrompts (Sold to Teccelerates)
     Positions:
       - Title: Founder
@@ -116,7 +116,7 @@ Experience2:
       - Title: Tutor (Part-time)
         Date: Jul 2017 - Sep 2018
         Details:
-          - Organize and deliver Industrial Attachment Program for students (Bot development, Mobile Apps)
+          - Organize and deliver Industrial Attachment program for students (Bot development, mobile apps)
         Badges: ['Cloud', 'AI', 'PowerApps']
 Education:
   - Course: BSc in Information Security
@@ -167,7 +167,7 @@ Skills:
       - Node.js
       - Express.js
       - FastAPI
-      - Langchain
+      - LangChain
   - Family: Developer Tools
     Items:
       - GitHub
@@ -187,7 +187,7 @@ Skills:
       - Grafana
       - Loki
       - Elastic
-      - Langchain
+      - LangChain
 
 Languages:
   - Name: Cantonese
