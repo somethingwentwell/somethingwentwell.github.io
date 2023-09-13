@@ -1,0 +1,26 @@
+[profile]
+other = "Profil"
+
+[experience]
+other = "Full-time Experience"
+
+[experience2]
+other = "Other Experience"
+
+[education]
+other = "Wykształcenie"
+
+[references]
+other = "Referencje"
+
+[skills]
+other = "Umiejętności"
+
+[languages]
+other = "Języki"
+
+[diplomas]
+other = "Certifications"
+
+[interests]
+other = "Zainteresowania"

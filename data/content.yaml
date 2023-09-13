@@ -1,0 +1,213 @@
+BasicInfo:
+  FirstName: Warren
+  LastName: Wong
+  Photo: img/avatar.png
+  Contacts:
+    # - Icon: fas fa-phone
+    #   Info: +852 5162 1783
+    - Icon: fas fa-envelope
+      Info: wwwc@outlook.com
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://somethingwentwell.github.io" target="_blank">somethingwentwell.github.io</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Hong Kong
+
+Profile: Experienced Solution Architect with in-depth understanding of cloud-native software deployment and system design illustrated over 7 years of experience in similar roles. Strong technical proficiency with Azure, GCP, AWS and Kubernetes certifications.
+
+Experience:
+  - Employer: Jihu GitLab
+    Place: Hong Kong
+    Positions:
+      - Title: Senior Solution Architect
+        Date: Jan 2022 - Present
+        Details:
+          - Initiate the GitLab SaaS platform (gitlab.hk) for customers in HK region
+          - End-to-end support to strategic customers for their GitLab cloud native deployment and adoption
+          - Partner and build joint solution with strategic partner like Microsoft, Amazon, Google, ARM and PwC
+          - Act as Developer Advocate for DevSecOps and cloud native in Hong Kong and Macau region
+        Badges: ['GitLab', 'DevOps', 'Cloud', 'Kubernetes', 'Terraform', 'Ansible', 'Elastic']
+  - Employer: Kong
+    Place: Hong Kong
+    Positions:
+      - Title: Senior Regional Field Engineer
+        Date: Jul 2021 - Jan 2022
+        Details:
+          - Lead global bank API projects in APJ region
+          - Writing, governing and modernizing API and API gateway plugin with APIOps/GitOps practice
+          - Design microservices architectures and decoupling monolithic applications including reading and writing enterprise application code
+        Badges: ['Kong', 'API Gateway', 'API', 'DevOps', 'Cloud', 'Kubernetes', 'Lua', 'Nginx']
+  - Employer: SoftwareOne
+    Place: Hong Kong
+    Positions:
+      - Title: Solution Architect
+        Date: Jan 2021 - Jun 2021
+        Details:
+          - Develop cloud native infrastructure and application modernization framework and practices in SoftwareOne Hong Kong region
+          - Provide DevOps and application modernization presales and consulting services to Enterprise customers
+        Badges: ['DevOps', 'Cloud', 'Kubernetes']
+  - Employer: Hong Kong Boardband Network
+    Place: Hong Kong
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Manager - Multi-Cloud Solutions
+        Date: Mar 2020 - Oct 2020
+        Details:
+          - Lead the team to build Software-as-a-Service products and manage SaaS application life cycles including the DevOps practice, build a documented, collaborative evaluation process; and develop action plans for upcoming renewal dates
+          - Develop new solution offering - DevSecOps& AI, which addressing customer demand on digital transformation
+          - Design and develop the tools and practices which help internal/externally to save >50% of manual work
+        Badges: ['Leadership', 'AI', 'DevOps', 'Cloud', 'Kubernetes', 'Terraform', 'SaaS']
+  - Employer: Microsoft
+    Place: Hong Kong
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Cloud Solution Architect
+        Date: Jul 2017 - Mar 2020
+        Details:
+          - End-to-end support to prioritized ISVs for their largescale project development with Kubernetes and DevOps technologies
+          - Build solutions leveraging Microsoft 3-cloud (Azure, Microsoft365, Dynamics365) value proposition with managed ISVs to take local business to the Greater Bay Area
+          - Drive business value and solution-driven partner conversations by achieving a 400-Level proficiency and  skills in leading PoCs, Hackathons, Technical Briefings in Azure PaaS/SaaS services
+        Badges: ['AI', 'DevOps', 'Cloud', 'Kubernetes', 'API']
+
+Experience2:
+  - Employer: InSource
+    Positions:
+      - Title: Founder
+        Date: Jul 2023 - Present
+        Details:
+          - InSource is a self-hosted AI flow management platform with No-Code drag and drop UI, sophisticated control room for execution and monitoring, and customized modules for diverse business needs
+          - https://insource.asia/
+  - Employer: Code Interpreter API
+    Positions:
+      - Title: Contributor
+        Date: Jul 2023 - Present
+        Details:
+          - A LangChain implementation of the ChatGPT Code Interpreter
+          - https://github.com/shroominic/codeinterpreter-api
+  - Employer: OpenAIPrompts (Sold to Teccelerates)
+    Positions:
+      - Title: Founder
+        Date: Mar 2023 - Present
+        Details:
+          - OpenAIPrompts is a platform for easy creation and sharing of GPT prompts with one-click hosting
+          - https://ai.teccelerates.com/
+  - Employer: Microsoft
+    Positions:
+      - Title: Microsoft Most Valuable Professional
+        Date: Sep 2020 - Present
+        Details:
+          - Represent as Microsoft technology experts who passionately share the knowledge with the community
+          - Organize and deliver technical events and community activities
+          - Provide technical consultation to the community
+  - Employer: Feva Works IT Education Centre
+    Positions:
+      - Title: Lead Trainer (Part-time)
+        Date: Mar 2018 - Present
+        Details:
+          - Organize new regular courses
+          - Lead the trainer team to deliver regular Microsoft AI & IoT courses
+          - Professional Microsoft certification training - Cantonese, English & Mandarin
+  - Employer: Institute of Vocational Education
+    Positions:
+      - Title: Tutor (Part-time)
+        Date: Jul 2017 - Sep 2018
+        Details:
+          - Organize and deliver Industrial Attachment Program for students (Bot development, Mobile Apps)
+
+Education:
+  - Course: BSc in Information Security
+    Place: The Hong Kong Polytechnic University
+    # Date: Sep 2012 - Nov 2017
+    Details: Specialised in cryptography and blockchain
+
+# References:
+#   - Name: Person One
+#     Relation: Co-worker at Super Cool Company
+#     Contacts:
+#     - Icon: fas fa-phone
+#       Info: +44 123 456 790
+#     - Icon: fas fa-envelope
+#       Info: contact@person-one.com
+#     - Icon: fas fa-map-marker-alt
+#       Info: Melbourne, Australia
+#   - Name: Person Two
+#     Relation: Boss at Super Cool Company
+#     Contacts:
+#     - Icon: fas fa-phone
+#       Info: +44 123 456 791
+#     - Icon: fas fa-envelope
+#       Info: contact@person-two.com
+#     - Icon: fas fa-map-marker-alt
+#       Info: Sydney, Australia
+
+
+Skills:
+  - Family: Cloud
+    Items:
+      - Azure
+      - AWS
+      - GCP
+      - Alibaba Cloud
+      - Huawei Cloud
+  - Family: Programming
+    Items:
+      - Python
+      - JavaScript/Typescript
+      - Lua
+      - SQL
+      - Bash
+  - Family: Frameworks
+    Items:
+      - Vue.js
+      - Angular.js
+      - Node.js
+      - Express.js
+      - FastAPI
+      - Langchain
+  - Family: Developer Tools
+    Items:
+      - GitHub
+      - Gitlab
+      - Azure DevOps
+      - Docker
+      - Kubernetes
+      - JFrog Artifactory
+      - Terraform
+      - Ansible
+      - Kong Gateway
+      - Kong Mesh
+      - Rancher
+      - ArgoCD
+      - FluxCD
+      - Prometheus
+      - Grafana
+      - Loki
+      - Elastic
+
+Languages:
+  - Name: Cantonese
+    Level: Native
+  - Name: English
+    Level: Fluent
+  - Name: Mandarin
+    Level: Fluent
+
+Diplomas:
+  - Certified Kubernetes Application Developer - The Linux Foundation
+  - Google Cloud Certified Professional Cloud Architect - Google
+  - AWS Certified Solutions Architect – Associate - Amazon Web Services
+  - Microsoft Certified Trainer - Microsoft
+  - Microsoft Certified Azure Solutions Architect Expert - Microsoft
+  - Microsoft Certified Azure DevOps Engineer Expert - Microsoft
+  - Microsoft Certified Azure Developer Associate - Microsoft
+  - Microsoft Certified Azure Administrator Associate - Microsoft
+  - Microsoft Certified Azure AI Engineer Associate - Microsoft
+  - Microsoft Certified Azure Data Scientist Associate - Microsoft
+  - Microsoft Certified Azure Security Engineer Associate - Microsoft
+
+# Interests:
+#   - Bouldering
+#   - Cooking
+#   - Windsurfing
+#   - Bossa Nova
+#   - Design
+#   - Languages
