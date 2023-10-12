@@ -63,12 +63,36 @@ Experience:
       - Title: Cloud Solution Architect
         Date: Jul 2017 - Mar 2020
         Details:
-          - End-to-end support to prioritized ISVs for their largescale project development with Kubernetes and DevOps technologies
-          - Build solutions leveraging Microsoft 3-cloud (Azure, Microsoft365, Dynamics365) value proposition with managed ISVs to take local business to the Greater Bay Area
-          - Drive business value and solution-driven partner conversations by achieving a 400-Level proficiency and  skills in leading PoCs, Hackathons, Technical Briefings in Azure PaaS/SaaS services
-        Badges: ['AI', 'DevOps', 'Cloud', 'Kubernetes', 'API']
+          - Provide end-to-end support to prioritized ISVs for their large-scale project development using Kubernetes and DevOps technologies.
+          - Encourage early adoption of new Azure services, such as IoT and blockchain.
+          - Develop solutions that leverage Microsoft's 3-cloud (Azure, Microsoft365, Dynamics365) value proposition with managed ISVs, in order to expand local businesses into the Greater Bay Area.
+          - Drive business value and solution-driven partner conversations by achieving a 400-level proficiency and skills in leading PoCs, hackathons, and technical briefings in Azure PaaS/SaaS services.
+        Badges: ['AI', 'DevOps', 'Cloud', 'Kubernetes', 'API', 'IoT', 'Blockchain']
 
 Experience2:
+  - Employer: Event & Livesteam 
+    Positions:
+      - Title: Speaker
+        # Date: Jul 2023 - Present
+        Details:
+          - Microsoft Build Hong Kong: https://www.linkedin.com/posts/warren-wong_aks-ai-kubernetes-activity-7076760778975940608-1BeU?utm_source=share&utm_medium=member_desktop  
+          - AWS Community Day Shenzhen: https://www.linkedin.com/posts/warren-wong_aws-gitlab-ai-activity-7072126346407116800-2kjL?utm_source=share&utm_medium=member_desktop  
+          - Blockchain with Daml sharing in Google devfest: https://www.linkedin.com/posts/warren-wong_smartcontracts-web3-googledevelopergroup-activity-7006894795725959168-YPaF?utm_source=share&utm_medium=member_desktop  
+          - Co-organizer of the first CNCF meetup: https://www.linkedin.com/posts/warren-wong_cloud-cloudcomputing-cloudnative-activity-7006103820225118209-wXUN?utm_source=share&utm_medium=member_desktop  
+          - Webinar | Publish Blazor WebAssembly applications using Azure static web applications: https://www.meetup.com/Microsoft-Reactor-Shanghai/events/275824638/   
+          - Webinar | Getting started with Rust: common concepts: https://www.bilibili.com/video/BV1pp4y1H762   
+          - Webinar | Understanding error handling in Rust: https://www.bilibili.com/video/BV1Tr4y1P7Cd   
+          - Webinar | Getting started with Go: https://www.bilibili.com/video/BV11A411N7S4   
+          - Webinar | Understand the basics of programming in Go: https://www.bilibili.com/video/BV1Uh411S7Cb   
+          - Webinar | Explore data types in Go: https://www.bilibili.com/video/BV1bi4y1N7H8   
+          - Webinar | DevOps Tools of the Trade: https://www.bilibili.com/video/BV185411V7nm   
+          - Webinar | Use Solidity to create an Ethereum smart contract: https://www.bilibili.com/video/BV1cK411P7GF   
+          - Webinar | Let's start learning C# development together: https://www.bilibili.com/video/BV1oD4y197ZD   
+          - Webinar | Use ASP.NET Core to build web applications: https://www.bilibili.com/video/BV1Kt4y1e7Kc   
+          - Webinar | Use Xamarin to build mobile apps: https://www.bilibili.com/video/BV1dA411j7mxg   
+          - Webinar | Containerize your Apps with Kubernetes on Azure: https://www.meetup.com/Kubernetes-Hong-Kong/events/274709479/   
+          - Self-built demo | Web app with Office 365 graph API to simplify video conference process: https://www.linkedin.com/posts/warren-wong_microsoft-microsoftteams-teams-activity-6633306094724837376-V56J   
+          - More on https://mvp.microsoft.com/en-us/PublicProfile/5003885?fullName=Warren%20Wong 
   - Employer: InSource
     Positions:
       - Title: Founder
