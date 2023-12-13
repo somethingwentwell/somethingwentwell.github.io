@@ -25,6 +25,7 @@ Experience:
           - End-to-end support to strategic customers for their GitLab cloud native deployment and adoption
           - Partner and build joint solution with strategic partner like Microsoft, Amazon, Google, ARM and PwC
           - Act as Developer Advocate for DevSecOps and cloud native in Hong Kong and Macau region
+          - Key customers: The Bank of East Asia, Bank of China, Melco Resorts & Entertainment, Hospital Authority
         Badges: ['GitLab', 'DevOps', 'Cloud', 'Kubernetes', 'Terraform', 'Ansible', 'Elastic']
   - Employer: Kong
     Place: Hong Kong
@@ -35,6 +36,8 @@ Experience:
           - Lead global bank API projects in APJ region
           - Writing, governing and modernizing API and API gateway plugin with APIOps/GitOps practice
           - Design microservices architectures and decoupling monolithic applications including reading and writing enterprise application code
+          - Key customers: HSBC, MUFG, Standard Chartered, Transport for NSW (Australia)
+          - Reason for leaving: GitLab's plan for HK SaaS development attracted me, as it presented a unique opportunity to be involved in a large-scale SaaS project like GitLab in a sales hub like Hong Kong.
         Badges: ['Kong', 'API Gateway', 'API', 'DevOps', 'Cloud', 'Kubernetes', 'Lua', 'Nginx']
   - Employer: SoftwareOne
     Place: Hong Kong
@@ -44,6 +47,8 @@ Experience:
         Details:
           - Develop cloud native infrastructure and application modernization framework and practices in SoftwareOne Hong Kong region
           - Provide DevOps and application modernization presales and consulting services to Enterprise customers
+          - Key customers: AIA, CK Hutchison, Dairy Farm
+          - Reason for leaving: The technical focus of the position was not as initially discussed, with an emphasis on lift and shift projects rather than application modernization.
         Badges: ['DevOps', 'Cloud', 'Kubernetes']
   - Employer: Hong Kong Boardband Network
     Place: Hong Kong
@@ -55,6 +60,8 @@ Experience:
           - Lead the team to build Software-as-a-Service products and manage SaaS application life cycles including the DevOps practice, build a documented, collaborative evaluation process; and develop action plans for upcoming renewal dates
           - Develop new solution offering - DevSecOps& AI, which addressing customer demand on digital transformation
           - Design and develop the tools and practices which help internal/externally to save >50% of manual work
+          - Key customers: McDonald's, Swire Properties, Dah Chong Hong, YF Life
+          - Reason for leaving: Due to a company-wide reorganization, my role was repositioned to focus on non-cloud and non-application-related tasks, which did not align with my career goals and expertise in cloud and application management.
         Badges: ['Leadership', 'AI', 'DevOps', 'Cloud', 'Kubernetes', 'Terraform', 'SaaS']
   - Employer: Microsoft
     Place: Hong Kong
@@ -67,6 +74,7 @@ Experience:
           - Encourage early adoption of new Azure services, such as IoT and blockchain.
           - Develop solutions that leverage Microsoft's 3-cloud (Azure, Microsoft365, Dynamics365) value proposition with managed ISVs, in order to expand local businesses into the Greater Bay Area.
           - Drive business value and solution-driven partner conversations by achieving a 400-level proficiency and skills in leading PoCs, hackathons, and technical briefings in Azure PaaS/SaaS services.
+          - Key customers: HKTVmall, MoneySQ, CryptoBLK
         Badges: ['AI', 'DevOps', 'Cloud', 'Kubernetes', 'API', 'IoT', 'Blockchain']
 
 Experience2:
