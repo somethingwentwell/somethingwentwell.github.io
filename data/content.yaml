@@ -12,7 +12,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Hong Kong
 
-Profile: Experienced Solution Architect with in-depth understanding of cloud-native software deployment and system design illustrated over 7 years of experience in similar roles. Strong technical proficiency with Azure, GCP, AWS and Kubernetes certifications.
+Profile: Experienced Solution Architect with in-depth understanding of cloud-native software deployment and system design illustrated over 7 years of experience in similar roles. Strong technical proficiency with Azure, GCP, AWS, and Kubernetes certifications. Proven expertise in Generative AI technologies and an active contributor to open-source projects.
 
 Experience:
   - Employer: Jihu GitLab
@@ -39,30 +39,30 @@ Experience:
           - Key customers - HSBC, MUFG, Standard Chartered, Transport for NSW (Australia)
           - Reason for leaving - GitLab's plan for HK SaaS development attracted me, as it presented a unique opportunity to be involved in a large-scale SaaS project like GitLab in a sales hub like Hong Kong.
         Badges: ['Kong', 'API Gateway', 'API', 'DevOps', 'Cloud', 'Kubernetes', 'Lua', 'Nginx']
-  - Employer: SoftwareOne
-    Place: Hong Kong
-    Positions:
-      - Title: Solution Architect
-        Date: Jan 2021 - Jun 2021
-        Details:
-          - Develop cloud native infrastructure and application modernization framework and practices in SoftwareOne Hong Kong region
-          - Provide DevOps and application modernization presales and consulting services to Enterprise customers
-          - Key customers - AIA, CK Hutchison, Dairy Farm
-          - Reason for leaving - The technical focus of the position was not as initially discussed, with an emphasis on lift and shift projects rather than application modernization.
-        Badges: ['DevOps', 'Cloud', 'Kubernetes']
-  - Employer: Hong Kong Boardband Network
-    Place: Hong Kong
-    Class: "experience__extra_padding"
-    Positions:
-      - Title: Manager - Multi-Cloud Solutions
-        Date: Mar 2020 - Oct 2020
-        Details:
-          - Lead the team to build Software-as-a-Service products and manage SaaS application life cycles including the DevOps practice, build a documented, collaborative evaluation process; and develop action plans for upcoming renewal dates
-          - Develop new solution offering - DevSecOps& AI, which addressing customer demand on digital transformation
-          - Design and develop the tools and practices which help internal/externally to save >50% of manual work
-          - Key customers - McDonald's, Swire Properties, Dah Chong Hong, YF Life
-          - Reason for leaving - Due to a company-wide reorganization, my role was repositioned to focus on non-cloud and non-application-related tasks, which did not align with my career goals and expertise in cloud and application management.
-        Badges: ['Leadership', 'AI', 'DevOps', 'Cloud', 'Kubernetes', 'Terraform', 'SaaS']
+  # - Employer: SoftwareOne
+  #   Place: Hong Kong
+  #   Positions:
+  #     - Title: Solution Architect
+  #       Date: Jan 2021 - Jun 2021
+  #       Details:
+  #         - Develop cloud native infrastructure and application modernization framework and practices in SoftwareOne Hong Kong region
+  #         - Provide DevOps and application modernization presales and consulting services to Enterprise customers
+  #         - Key customers - AIA, CK Hutchison, Dairy Farm
+  #         - Reason for leaving - The technical focus of the position was not as initially discussed, with an emphasis on lift and shift projects rather than application modernization.
+  #       Badges: ['DevOps', 'Cloud', 'Kubernetes']
+  # - Employer: Hong Kong Boardband Network
+  #   Place: Hong Kong
+  #   Class: "experience__extra_padding"
+  #   Positions:
+  #     - Title: Manager - Multi-Cloud Solutions
+  #       Date: Mar 2020 - Oct 2020
+  #       Details:
+  #         - Lead the team to build Software-as-a-Service products and manage SaaS application life cycles including the DevOps practice, build a documented, collaborative evaluation process; and develop action plans for upcoming renewal dates
+  #         - Develop new solution offering - DevSecOps& AI, which addressing customer demand on digital transformation
+  #         - Design and develop the tools and practices which help internal/externally to save >50% of manual work
+  #         - Key customers - McDonald's, Swire Properties, Dah Chong Hong, YF Life
+  #         - Reason for leaving - Due to a company-wide reorganization, my role was repositioned to focus on non-cloud and non-application-related tasks, which did not align with my career goals and expertise in cloud and application management.
+  #       Badges: ['Leadership', 'AI', 'DevOps', 'Cloud', 'Kubernetes', 'Terraform', 'SaaS']
   - Employer: Microsoft
     Place: Hong Kong
     Class: "experience__extra_padding"
@@ -91,14 +91,22 @@ Experience2:
           - 'Webinar Use Solidity to create an Ethereum smart contract: https://www.bilibili.com/video/BV1cK411P7GF'
           - 'Webinar Containerize your Apps with Kubernetes on Azure: https://www.meetup.com/Kubernetes-Hong-Kong/events/274709479/'
           - 'More on https://mvp.microsoft.com/en-us/PublicProfile/5003885?fullName=Warren%20Wong'
-  - Employer: InSource
+  # - Employer: InSource
+  #   Positions:
+  #     - Title: Founder
+  #       Date: Jul 2023 - Present
+  #       Details:
+  #         - InSource is a self-hosted AI flow management platform with no-code drag and drop UI, sophisticated control room for execution and monitoring, and customized modules for diverse business needs
+  #         - https://ai-insource.com/
+  #       Badges: ['OpenAI', 'LangChain', 'Python', 'Cloud', 'Container']
+  - Employer: Dify
     Positions:
-      - Title: Founder
-        Date: Jul 2023 - Present
+      - Title: Contributor
+        Date: Mar 2024 - Present
         Details:
-          - InSource is a self-hosted AI flow management platform with no-code drag and drop UI, sophisticated control room for execution and monitoring, and customized modules for diverse business needs
-          - https://ai-insource.com/
-        Badges: ['OpenAI', 'LangChain', 'Python', 'Cloud', 'Container']
+          - Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.  (36k+ GitHub stars)
+          - https://github.com/langgenius/dify
+        Badges: ['OpenAI', 'LangChain', 'Python']
   - Employer: Code Interpreter API
     Positions:
       - Title: Contributor
@@ -107,14 +115,14 @@ Experience2:
           - A LangChain implementation of the ChatGPT Code Interpreter (3k+ GitHub stars)
           - https://github.com/shroominic/codeinterpreter-api
         Badges: ['OpenAI', 'LangChain', 'Python']
-  - Employer: OpenAIPrompts (Sold to Teccelerates)
-    Positions:
-      - Title: Founder
-        Date: Mar 2023 - Present
-        Details:
-          - OpenAIPrompts is a platform for easy creation and sharing of GPT prompts with one-click hosting
-          - https://ai.teccelerates.com/
-        Badges: ['OpenAI', 'Vue.js']
+  # - Employer: OpenAIPrompts (Sold to Teccelerates)
+  #   Positions:
+  #     - Title: Founder
+  #       Date: Mar 2023 - Present
+  #       Details:
+  #         - OpenAIPrompts is a platform for easy creation and sharing of GPT prompts with one-click hosting
+  #         - https://ai.teccelerates.com/
+  #       Badges: ['OpenAI', 'Vue.js']
   - Employer: Microsoft
     Positions:
       - Title: Microsoft Most Valuable Professional
