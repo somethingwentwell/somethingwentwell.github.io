@@ -21,11 +21,11 @@ Experience:
       - Title: Head of Presales & Cloud Practice Leader
         Date: Apr 2024 - Now
         Details:
-          - Overseeing presales and aligning solutions with client goals.
-          - Architecting and implementing robust cloud-native and GenAI solutions.
-          - Fostering strong relationships and acting as a trusted advisor.
-          - Partnering with top tech vendors like Microsoft and AWS.
-          - Advocating best practices and delivering insights on cloud and AI technologies.
+          - Overseeing presales and aligning solutions with client goals
+          - Architecting and implementing robust cloud-native and GenAI solutions
+          - Fostering strong relationships and acting as a trusted advisor
+          - Partnering with top tech vendors like Microsoft and AWS
+          - Advocating best practices and delivering insights on cloud and AI technologies
         Badges: ['DevOps', 'Cloud', 'GenAI']
   - Employer: Jihu GitLab
     Place: Hong Kong
@@ -49,7 +49,7 @@ Experience:
           - Writing, governing and modernizing API and API gateway plugin with APIOps/GitOps practice
           - Design microservices architectures and decoupling monolithic applications including reading and writing enterprise application code
           - Key customers - HSBC, MUFG, Standard Chartered, Transport for NSW (Australia)
-          - Reason for leaving - GitLab's plan for HK SaaS development attracted me, as it presented a unique opportunity to be involved in a large-scale SaaS project like GitLab in a sales hub like Hong Kong.
+          - Reason for leaving - GitLab's plan for HK SaaS development attracted me, as it presented a unique opportunity to be involved in a large-scale SaaS project like GitLab in a sales hub like Hong Kong
         Badges: ['Kong', 'API Gateway', 'API', 'DevOps', 'Cloud', 'Kubernetes', 'Lua', 'Nginx']
   # - Employer: SoftwareOne
   #   Place: Hong Kong
@@ -60,7 +60,7 @@ Experience:
   #         - Develop cloud native infrastructure and application modernization framework and practices in SoftwareOne Hong Kong region
   #         - Provide DevOps and application modernization presales and consulting services to Enterprise customers
   #         - Key customers - AIA, CK Hutchison, Dairy Farm
-  #         - Reason for leaving - The technical focus of the position was not as initially discussed, with an emphasis on lift and shift projects rather than application modernization.
+  #         - Reason for leaving - The technical focus of the position was not as initially discussed, with an emphasis on lift and shift projects rather than application modernization
   #       Badges: ['DevOps', 'Cloud', 'Kubernetes']
   # - Employer: Hong Kong Boardband Network
   #   Place: Hong Kong
@@ -73,7 +73,7 @@ Experience:
   #         - Develop new solution offering - DevSecOps& AI, which addressing customer demand on digital transformation
   #         - Design and develop the tools and practices which help internal/externally to save >50% of manual work
   #         - Key customers - McDonald's, Swire Properties, Dah Chong Hong, YF Life
-  #         - Reason for leaving - Due to a company-wide reorganization, my role was repositioned to focus on non-cloud and non-application-related tasks, which did not align with my career goals and expertise in cloud and application management.
+  #         - Reason for leaving - Due to a company-wide reorganization, my role was repositioned to focus on non-cloud and non-application-related tasks, which did not align with my career goals and expertise in cloud and application management
   #       Badges: ['Leadership', 'AI', 'DevOps', 'Cloud', 'Kubernetes', 'Terraform', 'SaaS']
   - Employer: Microsoft
     Place: Hong Kong
@@ -82,10 +82,10 @@ Experience:
       - Title: Cloud Solution Architect
         Date: Jul 2017 - Mar 2020
         Details:
-          - Provide end-to-end support to prioritized ISVs for their large-scale project development using Kubernetes and DevOps technologies.
-          - Encourage early adoption of new Azure services, such as IoT and blockchain.
-          - Develop solutions that leverage Microsoft's 3-cloud (Azure, Microsoft365, Dynamics365) value proposition with managed ISVs, in order to expand local businesses into the Greater Bay Area.
-          - Drive business value and solution-driven partner conversations by achieving a 400-level proficiency and skills in leading PoCs, hackathons, and technical briefings in Azure PaaS/SaaS services.
+          - Provide end-to-end support to prioritized ISVs for their large-scale project development using Kubernetes and DevOps technologies
+          - Encourage early adoption of new Azure services, such as IoT and blockchain
+          - Develop solutions that leverage Microsoft's 3-cloud (Azure, Microsoft365, Dynamics365) value proposition with managed ISVs, in order to expand local businesses into the Greater Bay Area
+          - Drive business value and solution-driven partner conversations by achieving a 400-level proficiency and skills in leading PoCs, hackathons, and technical briefings in Azure PaaS/SaaS services
           - Key customers - HKTVmall, MoneySQ, CryptoBLK
         Badges: ['AI', 'DevOps', 'Cloud', 'Kubernetes', 'API', 'IoT', 'Blockchain']
 
