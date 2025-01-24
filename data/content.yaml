@@ -15,8 +15,18 @@ BasicInfo:
 Profile: Experienced Solution Architect with in-depth understanding of cloud-native software deployment and system design illustrated over 7 years of experience in similar roles. Strong technical proficiency with Azure, GCP, AWS, and Kubernetes certifications. Proven expertise in Generative AI technologies and an active contributor to open-source projects.
 
 Experience:
+  - Employer: Microsoft
+    Place: Hong Kong (Remote)
+    Positions:
+      - Title: Technical Trainer
+        Date: Jan 2025 - Now
+        Details:
+          - Motivate, engage, and skill students on all Azure cloud services, with a particular focus on AI and App Innovation related services
+          - Continuously enhance skills to stay up-to-date with the latest advancements in cloud computing technologies
+          - Act as a Microsoft Cloud Platform evangelist by promoting its benefits and innovations to customers, partners, and external communities
+        Badges: ['DevOps', 'Cloud', 'GenAI']
   - Employer: Superhub
-    Place: Hong Kong
+    Place: Hong Kong (Hybrid)
     Positions:
       - Title: Head of Presales & Cloud Practice Leader
         Date: Apr 2024 - Now
@@ -28,7 +38,7 @@ Experience:
           - Advocating best practices and delivering insights on cloud and AI technologies
         Badges: ['DevOps', 'Cloud', 'GenAI']
   - Employer: Jihu GitLab
-    Place: Hong Kong
+    Place: Hong Kong (Remote)
     Positions:
       - Title: Senior Solution Architect
         Date: Jan 2022 - Feb 2024
@@ -40,7 +50,7 @@ Experience:
           - Key customers - The Bank of East Asia, Bank of China, Melco Resorts & Entertainment, Hospital Authority
         Badges: ['GitLab', 'DevOps', 'Cloud', 'Kubernetes', 'Terraform', 'Ansible', 'Elastic']
   - Employer: Kong
-    Place: Hong Kong
+    Place: Hong Kong (Remote)
     Positions:
       - Title: Senior Regional Field Engineer
         Date: Jul 2021 - Jan 2022
@@ -76,7 +86,7 @@ Experience:
   #         - Reason for leaving - Due to a company-wide reorganization, my role was repositioned to focus on non-cloud and non-application-related tasks, which did not align with my career goals and expertise in cloud and application management
   #       Badges: ['Leadership', 'AI', 'DevOps', 'Cloud', 'Kubernetes', 'Terraform', 'SaaS']
   - Employer: Microsoft
-    Place: Hong Kong
+    Place: Hong Kong (Hybrid)
     Class: "experience__extra_padding"
     Positions:
       - Title: Cloud Solution Architect
@@ -90,19 +100,30 @@ Experience:
         Badges: ['AI', 'DevOps', 'Cloud', 'Kubernetes', 'API', 'IoT', 'Blockchain']
 
 Experience2:
-  - Employer: Event & Livestream 
+  - Employer: Dify
     Positions:
-      - Title: Speaker
-        # Date: Jul 2023 - Present
+      - Title: Consultant - Business Development and Developer Relations (Part-time)
+        Date: Jan 2025 - Present
         Details:
-          - 'Microsoft Build Hong Kong: https://www.linkedin.com/posts/warren-wong_aks-ai-kubernetes-activity-7076760778975940608-1BeU'
-          - 'AWS Community Day Shenzhen: https://www.linkedin.com/posts/warren-wong_aws-gitlab-ai-activity-7072126346407116800-2kjL'
-          - 'Blockchain with Daml sharing in Google devfest: https://www.linkedin.com/posts/warren-wong_smartcontracts-web3-googledevelopergroup-activity-7006894795725959168-YPaF'
-          - 'The first CNCF meetup: https://www.linkedin.com/posts/warren-wong_cloud-cloudcomputing-cloudnative-activity-7006103820225118209-wXUN'
-          - 'Webinar DevOps Tools of the Trade: https://www.bilibili.com/video/BV185411V7nm'   
-          - 'Webinar Use Solidity to create an Ethereum smart contract: https://www.bilibili.com/video/BV1cK411P7GF'
-          - 'Webinar Containerize your Apps with Kubernetes on Azure: https://www.meetup.com/Kubernetes-Hong-Kong/events/274709479/'
-          - 'More on https://mvp.microsoft.com/en-us/PublicProfile/5003885?fullName=Warren%20Wong'
+          - Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production (60k+ GitHub stars)
+          - Identify business opportunities and establish strategic partnerships in APAC
+          - Organize developer events, maintain the developer community, and collect product feedback
+          - Analyze market trends and competition, and develop market strategies
+          - Maintain client relationships, attend industry events, and regularly report market opportunities
+        Badges: ['OpenAI', 'LangChain', 'Python']
+  # - Employer: Event & Livestream 
+  #   Positions:
+  #     - Title: Speaker
+  #       # Date: Jul 2023 - Present
+  #       Details:
+  #         - 'Microsoft Build Hong Kong: https://www.linkedin.com/posts/warren-wong_aks-ai-kubernetes-activity-7076760778975940608-1BeU'
+  #         - 'AWS Community Day Shenzhen: https://www.linkedin.com/posts/warren-wong_aws-gitlab-ai-activity-7072126346407116800-2kjL'
+  #         - 'Blockchain with Daml sharing in Google devfest: https://www.linkedin.com/posts/warren-wong_smartcontracts-web3-googledevelopergroup-activity-7006894795725959168-YPaF'
+  #         - 'The first CNCF meetup: https://www.linkedin.com/posts/warren-wong_cloud-cloudcomputing-cloudnative-activity-7006103820225118209-wXUN'
+  #         - 'Webinar DevOps Tools of the Trade: https://www.bilibili.com/video/BV185411V7nm'   
+  #         - 'Webinar Use Solidity to create an Ethereum smart contract: https://www.bilibili.com/video/BV1cK411P7GF'
+  #         - 'Webinar Containerize your Apps with Kubernetes on Azure: https://www.meetup.com/Kubernetes-Hong-Kong/events/274709479/'
+  #         - 'More on https://mvp.microsoft.com/en-us/PublicProfile/5003885?fullName=Warren%20Wong'
   # - Employer: InSource
   #   Positions:
   #     - Title: Founder
@@ -111,43 +132,35 @@ Experience2:
   #         - InSource is a self-hosted AI flow management platform with no-code drag and drop UI, sophisticated control room for execution and monitoring, and customized modules for diverse business needs
   #         - https://ai-insource.com/
   #       Badges: ['OpenAI', 'LangChain', 'Python', 'Cloud', 'Container']
-  - Employer: Dify
-    Positions:
-      - Title: Contributor
-        Date: Mar 2024 - Present
-        Details:
-          - Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.  (36k+ GitHub stars)
-          - https://github.com/langgenius/dify
-        Badges: ['OpenAI', 'LangChain', 'Python']
-  - Employer: Code Interpreter API
-    Positions:
-      - Title: Contributor
-        Date: Jul 2023 - Present
-        Details:
-          - A LangChain implementation of the ChatGPT Code Interpreter (3k+ GitHub stars)
-          - https://github.com/shroominic/codeinterpreter-api
-        Badges: ['OpenAI', 'LangChain', 'Python']
-  # - Employer: OpenAIPrompts (Sold to Teccelerates)
+  # - Employer: Dify
   #   Positions:
-  #     - Title: Founder
-  #       Date: Mar 2023 - Present
+  #     - Title: Contributor
+  #       Date: Mar 2024 - Present
   #       Details:
-  #         - OpenAIPrompts is a platform for easy creation and sharing of GPT prompts with one-click hosting
-  #         - https://ai.teccelerates.com/
-  #       Badges: ['OpenAI', 'Vue.js']
-  - Employer: Microsoft
-    Positions:
-      - Title: Microsoft Most Valuable Professional
-        Date: Sep 2020 - Present
-        Details:
-          - Represent as Microsoft technology experts who passionately share the knowledge with the community
-          - Organize and deliver technical events and community activities
-          - Provide technical consultation to the community
-        Badges: ['Developer Community', 'Kubernetes', 'DevOps', 'Cloud', 'AI']
+  #         - Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.  (36k+ GitHub stars)
+  #         - https://github.com/langgenius/dify
+  #       Badges: ['OpenAI', 'LangChain', 'Python']
+  # - Employer: Code Interpreter API
+  #   Positions:
+  #     - Title: Contributor
+  #       Date: Jul 2023 - Present
+  #       Details:
+  #         - A LangChain implementation of the ChatGPT Code Interpreter (3k+ GitHub stars)
+  #         - https://github.com/shroominic/codeinterpreter-api
+  #       Badges: ['OpenAI', 'LangChain', 'Python']
+  # - Employer: Microsoft
+  #   Positions:
+  #     - Title: Microsoft Most Valuable Professional
+  #       Date: Sep 2020 - Jan 2025
+  #       Details:
+  #         - Represent as Microsoft technology experts who passionately share the knowledge with the community
+  #         - Organize and deliver technical events and community activities
+  #         - Provide technical consultation to the community
+  #       Badges: ['Developer Community', 'Kubernetes', 'DevOps', 'Cloud', 'AI']
   - Employer: Feva Works IT Education Centre
     Positions:
       - Title: Lead Trainer (Part-time)
-        Date: Mar 2018 - Present
+        Date: Mar 2018 - Oct 2024
         Details:
           - Organize new regular courses
           - Lead the trainer team to deliver regular Microsoft AI & IoT courses
@@ -242,6 +255,7 @@ Diplomas:
   - Certified Kubernetes Application Developer - The Linux Foundation
   - Google Cloud Certified Professional Cloud Architect - Google
   - AWS Certified Solutions Architect – Associate - Amazon Web Services
+  - Microsoft Most Valuable Professional (2020 - 2025) - Microsoft
   - Microsoft Certified Trainer - Microsoft
   - Microsoft Certified Azure Solutions Architect Expert - Microsoft
   - Microsoft Certified Azure DevOps Engineer Expert - Microsoft
