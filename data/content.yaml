@@ -24,7 +24,7 @@ Experience:
           - Motivate, engage, and skill students on all Azure cloud services, with a particular focus on AI and App Innovation related services
           - Continuously enhance skills to stay up-to-date with the latest advancements in cloud computing technologies
           - Act as a Microsoft Cloud Platform evangelist by promoting its benefits and innovations to customers, partners, and external communities
-        Badges: ['DevOps', 'Cloud', 'GenAI']
+        Badges: ['DevOps', 'Cloud', 'GenAI', 'Data Engineering', 'Database']
   - Employer: Superhub
     Place: Hong Kong (Hybrid)
     Positions:
@@ -110,7 +110,7 @@ Experience2:
           - Organize developer events, maintain the developer community, and collect product feedback
           - Analyze market trends and competition, and develop market strategies
           - Maintain client relationships, attend industry events, and regularly report market opportunities
-        Badges: ['OpenAI', 'LangChain', 'Python']
+        Badges: ['GenAI', 'LangChain', 'Python']
   # - Employer: Event & Livestream 
   #   Positions:
   #     - Title: Speaker
