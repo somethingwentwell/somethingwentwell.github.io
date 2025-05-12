@@ -15,16 +15,19 @@ BasicInfo:
 Profile: Seasoned Technical Specialist and Solution Architect with over 8 years of experience in the APAC region, focusing on cloud-native software deployment, system design, and innovative cloud solutions. Demonstrated proficiency with cloud platforms such as Azure, GCP, and AWS, alongside Kubernetes. Adept in Generative AI technologies and actively contributing to open-source projects. Proven track record of successfully leading and executing large-scale projects, acting as a trusted advisor, and fostering strong relationships with top tech vendors and strategic clients.
 
 Experience:
-  - Employer: Microsoft
+  - Employer: Dify
     Place: Hong Kong (Remote)
     Positions:
-      - Title: Technical Trainer
+      - Title: Regional Director (APAC)
         Date: Jan 2025 - Present
         Details:
-          - Motivate, engage, and skill students on all Azure cloud services, with a particular focus on AI and App Innovation related services
-          - Continuously enhance skills to stay up-to-date with the latest advancements in cloud computing technologies
-          - Act as a Microsoft Cloud Platform evangelist by promoting its benefits and innovations to customers, partners, and external communities
-        Badges: ['DevOps', 'Cloud', 'GenAI', 'Data Engineering', 'Database']
+          - Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production (60k+ GitHub stars)
+          - Lead strategic expansion and operations across the Asia-Pacific region
+          - Identify and secure business opportunities, forging strategic partnerships in APAC
+          - Organize developer events, foster and manage the APAC developer community, and collect actionable product feedback
+          - Analyze market trends and competition, and develop tailored market strategies
+          - Build and maintain client relationships, represent Dify at industry events, and regularly report on market opportunities and growth initiatives
+        Badges: ['GenAI', 'LangChain', 'Python']
   - Employer: Superhub
     Place: Hong Kong (Hybrid)
     Positions:
@@ -100,17 +103,16 @@ Experience:
         Badges: ['AI', 'DevOps', 'Cloud', 'Kubernetes', 'API', 'IoT', 'Blockchain']
 
 Experience2:
-  - Employer: Dify
+  - Employer: Microsoft
+    Place: Hong Kong (Remote)
     Positions:
-      - Title: Consultant - BD & DevRel (Part-time)
+      - Title: Technical Trainer
         Date: Jan 2025 - Present
         Details:
-          - Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production (60k+ GitHub stars)
-          - Identify business opportunities and establish strategic partnerships in APAC
-          - Organize developer events, maintain the developer community, and collect product feedback
-          - Analyze market trends and competition, and develop market strategies
-          - Maintain client relationships, attend industry events, and regularly report market opportunities
-        Badges: ['GenAI', 'LangChain', 'Python']
+          - Motivate, engage, and skill students on all Azure cloud services, with a particular focus on AI and App Innovation related services
+          - Continuously enhance skills to stay up-to-date with the latest advancements in cloud computing technologies
+          - Act as a Microsoft Cloud Platform evangelist by promoting its benefits and innovations to customers, partners, and external communities
+        Badges: ['DevOps', 'Cloud', 'GenAI', 'Data Engineering', 'Database']
   # - Employer: Event & Livestream 
   #   Positions:
   #     - Title: Speaker
