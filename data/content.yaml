@@ -3,8 +3,6 @@ BasicInfo:
   LastName: Wong
   Photo: img/avatar.png
   Contacts:
-    # - Icon: fas fa-phone
-    #   Info: +852 5162 1783
     - Icon: fas fa-envelope
       Info: wwwc@outlook.com
     - Icon: fas fa-globe
@@ -12,82 +10,61 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Hong Kong
 
-Profile: Seasoned Technical Specialist and Solution Architect with over 8 years of experience in the APAC region, focusing on cloud-native software deployment, system design, and innovative cloud solutions. Demonstrated proficiency with cloud platforms such as Azure, GCP, and AWS, alongside Kubernetes. Adept in Generative AI technologies and actively contributing to open-source projects. Proven track record of successfully leading and executing large-scale projects, acting as a trusted advisor, and fostering strong relationships with top tech vendors and strategic clients.
+Profile: Seasoned AI and Application Solution Architect and Technical Leader with over 9 years of experience in the APAC region, specializing in cloud-native software deployment, system design, and the implementation of large-scale GenAI ecosystems. Proven track record in building and leading high-performing technical teams from the ground up while serving as a trusted advisor for global key accounts. Demonstrated expertise across Azure, GCP, and AWS platforms, with a deep focus on Kubernetes and open-source contributions. Adept at bridging complex enterprise requirements with cutting-edge AI technologies to drive product innovation and successful deployment lifecycles.
 
 Experience:
   - Employer: Dify
     Place: Hong Kong (Remote)
     Positions:
-      - Title: Regional Director (APAC)
+      - Title: Head of Solution Architecture
         Date: Jan 2025 - Present
         Details:
-          - Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production (~100k GitHub stars)
-          - Lead strategic expansion and operations across the Asia-Pacific region
-          - Identify and secure business opportunities, forging strategic partnerships in APAC
-          - Organize developer events, foster and manage the APAC developer community, and collect actionable product feedback
-          - Analyze market trends and competition, and develop tailored market strategies
-          - Build and maintain client relationships, represent Dify at industry events, and regularly report on market opportunities and growth initiatives
-        Badges: ['GenAI', 'LangChain', 'Python']
+          - Dify is an open-source LLM app development platform combining AI workflows, RAG pipelines, and agent capabilities (>130k GitHub stars)
+          - Established and scaled the global Solution Architecture department from zero, defining recruitment standards, technical benchmarks, and delivery workflows
+          - Led technical engagement for global key accounts, managing the lifecycle from Proof of Concept (PoC) to MVP customization and production-grade deployment
+          - Architected complex AI workflows and RAG pipelines, ensuring the stack meets rigorous enterprise-grade security, scalability, and performance needs
+          - Key customers - Mercedes-Benz (DE), DBS (SG), AIA (HK), HKMA (HK)
+          - Reason for leaving: Corporate strategy pivoted toward new Product-Led Growth (PLG) R&D, resulting in the cessation of direct enterprise business development and high-touch engagement in favor of a channel-led maintenance and renewal model.
+        Badges: ['Solution Architecture', 'RAG', 'Enterprise Security', 'Team Leadership', 'GenAI Platform']
+
   - Employer: Superhub
     Place: Hong Kong (Hybrid)
     Positions:
       - Title: Head of Presales & Cloud Practice Leader
         Date: Apr 2024 - Dec 2024
         Details:
-          - Overseeing presales and aligning solutions with client goals
-          - Architecting and implementing robust cloud-native and GenAI solutions
-          - Fostering strong relationships and acting as a trusted advisor
-          - Partnering with top tech vendors like Microsoft and AWS
-          - Advocating best practices and delivering insights on cloud and AI technologies
-        Badges: ['DevOps', 'Cloud', 'GenAI']
+          - Overseeing presales operations and aligning cloud-native/GenAI solutions with enterprise client goals
+          - Architected robust cloud solutions and acted as a trusted advisor to key stakeholders and partners like Microsoft and AWS
+          - Advocated best practices and delivered insights on hybrid-cloud and AI modernization strategies
+          - Key customers - Nan Fung, Anglo Eastern, Yata
+          - Reason for leaving: Initially joined to maintain professional momentum in cloud leadership following GitLab’s restructuring; successfully transitioned back to the vendor-side at Dify to focus on global AI infrastructure initiatives.
+        Badges: ['Generative AI', 'Presales Strategy', 'Azure/AWS', 'Technical Leadership']
+
   - Employer: Jihu GitLab
     Place: Hong Kong (Remote)
     Positions:
       - Title: Senior Solution Architect
         Date: Jan 2022 - Feb 2024
         Details:
-          - Initiate the GitLab SaaS platform (gitlab.hk) for customers in HK region
-          - End-to-end support to strategic customers for their GitLab cloud native deployment and adoption
-          - Partner and build joint solution with strategic partner like Microsoft, Amazon, Google, ARM and PwC
-          - Core member of GitLab GenAI development team and actively contribute to the GenAI feature development
+          - Launched and initiated the GitLab SaaS platform (gitlab.hk) specifically for the Hong Kong market
+          - Provided end-to-end architectural support for strategic customers for cloud-native deployment and adoption
+          - Contributed to core GenAI feature development as part of the global GitLab GenAI development team
           - Key customers - The Bank of East Asia, Bank of China, Melco Resorts & Entertainment, Hospital Authority
-        Badges: ['GitLab', 'DevOps', 'Cloud', 'Kubernetes', 'Terraform', 'Ansible', 'Elastic']
+          - Reason for leaving: Strategic decision by top management to terminate all non-China (including Hong Kong) operations and focus exclusively on the mainland China domestic market.
+        Badges: ['DevOps/CICD', 'GitLab', 'GenAI R&D', 'Kubernetes']
+
   - Employer: Kong
     Place: Hong Kong (Remote)
     Positions:
       - Title: Senior Regional Field Engineer
         Date: Jul 2021 - Jan 2022
         Details:
-          - Lead global bank API projects in APJ region
-          - Writing, governing and modernizing API and API gateway plugin with APIOps/GitOps practice
-          - Design microservices architectures and decoupling monolithic applications including reading and writing enterprise application code
+          - Led global bank API projects in the APJ region, implementing APIOps and GitOps practices
+          - Designed microservices architectures and decoupled monolithic applications through custom plugin development
           - Key customers - HSBC, MUFG, Standard Chartered, Transport for NSW (Australia)
-          - Reason for leaving - GitLab's plan for HK SaaS development attracted me, as it presented a unique opportunity to be involved in a large-scale SaaS project like GitLab in a sales hub like Hong Kong
-        Badges: ['Kong', 'API Gateway', 'API', 'DevOps', 'Cloud', 'Kubernetes', 'Lua', 'Nginx']
-  # - Employer: SoftwareOne
-  #   Place: Hong Kong
-  #   Positions:
-  #     - Title: Solution Architect
-  #       Date: Jan 2021 - Jun 2021
-  #       Details:
-  #         - Develop cloud native infrastructure and application modernization framework and practices in SoftwareOne Hong Kong region
-  #         - Provide DevOps and application modernization presales and consulting services to Enterprise customers
-  #         - Key customers - AIA, CK Hutchison, Dairy Farm
-  #         - Reason for leaving - The technical focus of the position was not as initially discussed, with an emphasis on lift and shift projects rather than application modernization
-  #       Badges: ['DevOps', 'Cloud', 'Kubernetes']
-  # - Employer: Hong Kong Boardband Network
-  #   Place: Hong Kong
-  #   Class: "experience__extra_padding"
-  #   Positions:
-  #     - Title: Manager - Multi-Cloud Solutions
-  #       Date: Mar 2020 - Oct 2020
-  #       Details:
-  #         - Lead the team to build Software-as-a-Service products and manage SaaS application life cycles including the DevOps practice, build a documented, collaborative evaluation process; and develop action plans for upcoming renewal dates
-  #         - Develop new solution offering - DevSecOps& AI, which addressing customer demand on digital transformation
-  #         - Design and develop the tools and practices which help internal/externally to save >50% of manual work
-  #         - Key customers - McDonald's, Swire Properties, Dah Chong Hong, YF Life
-  #         - Reason for leaving - Due to a company-wide reorganization, my role was repositioned to focus on non-cloud and non-application-related tasks, which did not align with my career goals and expertise in cloud and application management
-  #       Badges: ['Leadership', 'AI', 'DevOps', 'Cloud', 'Kubernetes', 'Terraform', 'SaaS']
+          - Reason for leaving: Recruited by Jihu GitLab to lead the unique architectural challenge of building the first localized SaaS platform (gitlab.hk) for the Hong Kong market.
+        Badges: ['API Management', 'Microservices', 'APIOps/GitOps', 'Lua/Nginx']
+
   - Employer: Microsoft
     Place: Hong Kong (Hybrid)
     Class: "experience__extra_padding"
@@ -95,155 +72,58 @@ Experience:
       - Title: Cloud Solution Architect
         Date: Jul 2017 - Mar 2020
         Details:
-          - Provide end-to-end support to prioritized ISVs for their large-scale project development using Kubernetes and DevOps technologies
-          - Encourage early adoption of new Azure services, such as IoT and blockchain
-          - Develop solutions that leverage Microsoft's 3-cloud (Azure, Microsoft365, Dynamics365) value proposition with managed ISVs, in order to expand local businesses into the Greater Bay Area
-          - Drive business value and solution-driven partner conversations by achieving a 400-level proficiency and skills in leading PoCs, hackathons, and technical briefings in Azure PaaS/SaaS services
+          - Provided end-to-end support to prioritized ISVs for large-scale project development using Kubernetes and DevOps
+          - Encouraged early adoption of Azure services, such as IoT and blockchain, through high-level PoCs and hackathons
+          - Developed solutions leveraging Microsoft’s 3-cloud value proposition to expand local business reach
           - Key customers - HKTVmall, MoneySQ, CryptoBLK
-        Badges: ['AI', 'DevOps', 'Cloud', 'Kubernetes', 'API', 'IoT', 'Blockchain']
+          - Reason for leaving: To specialize in API infrastructure and microservices within the open-source vendor ecosystem at Kong.
+        Badges: ['Azure Architecture', 'Kubernetes', 'IoT', 'Blockchain']
 
 Experience2:
-  - Employer: Microsoft
-    Place: Hong Kong (Remote)
+  - Employer: Clawith (Open Source)
     Positions:
-      - Title: Technical Trainer
-        Date: Jan 2025 - Present
+      - Title: Core Contributor
+        Date: Mar 2026 - Present
         Details:
-          - Motivate, engage, and skill students on all Azure cloud services, with a particular focus on AI and App Innovation related services
-          - Continuously enhance skills to stay up-to-date with the latest advancements in cloud computing technologies
-          - Act as a Microsoft Cloud Platform evangelist by promoting its benefits and innovations to customers, partners, and external communities
-        Badges: ['DevOps', 'Cloud', 'GenAI', 'Data Engineering', 'Database']
-  # - Employer: Event & Livestream 
-  #   Positions:
-  #     - Title: Speaker
-  #       # Date: Jul 2023 - Present
-  #       Details:
-  #         - 'Microsoft Build Hong Kong: https://www.linkedin.com/posts/warren-wong_aks-ai-kubernetes-activity-7076760778975940608-1BeU'
-  #         - 'AWS Community Day Shenzhen: https://www.linkedin.com/posts/warren-wong_aws-gitlab-ai-activity-7072126346407116800-2kjL'
-  #         - 'Blockchain with Daml sharing in Google devfest: https://www.linkedin.com/posts/warren-wong_smartcontracts-web3-googledevelopergroup-activity-7006894795725959168-YPaF'
-  #         - 'The first CNCF meetup: https://www.linkedin.com/posts/warren-wong_cloud-cloudcomputing-cloudnative-activity-7006103820225118209-wXUN'
-  #         - 'Webinar DevOps Tools of the Trade: https://www.bilibili.com/video/BV185411V7nm'   
-  #         - 'Webinar Use Solidity to create an Ethereum smart contract: https://www.bilibili.com/video/BV1cK411P7GF'
-  #         - 'Webinar Containerize your Apps with Kubernetes on Azure: https://www.meetup.com/Kubernetes-Hong-Kong/events/274709479/'
-  #         - 'More on https://mvp.microsoft.com/en-us/PublicProfile/5003885?fullName=Warren%20Wong'
-  # - Employer: InSource
-  #   Positions:
-  #     - Title: Founder
-  #       Date: Jul 2023 - Present
-  #       Details:
-  #         - InSource is a self-hosted AI flow management platform with no-code drag and drop UI, sophisticated control room for execution and monitoring, and customized modules for diverse business needs
-  #         - https://ai-insource.com/
-  #       Badges: ['OpenAI', 'LangChain', 'Python', 'Cloud', 'Container']
-  # - Employer: Dify
-  #   Positions:
-  #     - Title: Contributor
-  #       Date: Mar 2024 - Present
-  #       Details:
-  #         - Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.  (36k+ GitHub stars)
-  #         - https://github.com/langgenius/dify
-  #       Badges: ['OpenAI', 'LangChain', 'Python']
-  # - Employer: Code Interpreter API
-  #   Positions:
-  #     - Title: Contributor
-  #       Date: Jul 2023 - Present
-  #       Details:
-  #         - A LangChain implementation of the ChatGPT Code Interpreter (3k+ GitHub stars)
-  #         - https://github.com/shroominic/codeinterpreter-api
-  #       Badges: ['OpenAI', 'LangChain', 'Python']
-  # - Employer: Microsoft
-  #   Positions:
-  #     - Title: Microsoft Most Valuable Professional
-  #       Date: Sep 2020 - Jan 2025
-  #       Details:
-  #         - Represent as Microsoft technology experts who passionately share the knowledge with the community
-  #         - Organize and deliver technical events and community activities
-  #         - Provide technical consultation to the community
-  #       Badges: ['Developer Community', 'Kubernetes', 'DevOps', 'Cloud', 'AI']
+          - Actively contributing to <a href="https://github.com/dataelement/Clawith" target="_blank">Clawith</a>, an open-source multi-agent collaboration platform for teams
+          - Developing the "Aware" autonomous awareness system, enabling agents to actively perceive, decide, and act via self-adaptive triggers (Cron, Webhook, Poll)
+          - Implementing enterprise-grade features including multi-tenant RBAC isolation, persistent long-term memory (memory.md), and workspace sandboxing
+          - Building "Digital Employee" workflows and the "Plaza" knowledge feed for continuous organizational context sharing
+        Badges: ['Multi-Agent Systems', 'MCP', 'Python']
   - Employer: Feva Works IT Education Centre
     Positions:
       - Title: Lead Trainer (Part-time)
         Date: Mar 2018 - Oct 2024
         Details:
-          - Organize new regular courses
-          - Lead the trainer team to deliver regular Microsoft AI & IoT courses
-          - Professional Microsoft certification training - Cantonese, English & Mandarin
-        Badges: ['Cloud', 'AI', 'IoT']
+          - Organized regular courses and led the trainer team to deliver Microsoft AI & IoT curriculum
+          - Delivered professional certification training in Cantonese, English, and Mandarin
+        Badges: ['Technical Training', 'AI & IoT', 'Public Speaking', 'Coaching']
   - Employer: Institute of Vocational Education
     Positions:
       - Title: Tutor (Part-time)
         Date: Jul 2017 - Sep 2018
         Details:
-          - Organize and deliver Industrial Attachment program for students (Bot development, mobile apps)
-        Badges: ['Cloud', 'AI', 'PowerApps']
+          - Organized and delivered Industrial Attachment programs for students focused on bot and mobile development
+        Badges: ['Mentorship', 'Bot Development', 'Mobile Apps', 'Power Platform']
+
 Education:
   - Course: BSc in Information Security
     Place: The Hong Kong Polytechnic University
-    # Date: Sep 2012 - Nov 2017
     Details: Specialised in cryptography and blockchain
 
-# References:
-#   - Name: Person One
-#     Relation: Co-worker at Super Cool Company
-#     Contacts:
-#     - Icon: fas fa-phone
-#       Info: +44 123 456 790
-#     - Icon: fas fa-envelope
-#       Info: contact@person-one.com
-#     - Icon: fas fa-map-marker-alt
-#       Info: Melbourne, Australia
-#   - Name: Person Two
-#     Relation: Boss at Super Cool Company
-#     Contacts:
-#     - Icon: fas fa-phone
-#       Info: +44 123 456 791
-#     - Icon: fas fa-envelope
-#       Info: contact@person-two.com
-#     - Icon: fas fa-map-marker-alt
-#       Info: Sydney, Australia
-
-
 Skills:
-  - Family: Cloud
-    Items:
-      - Azure
-      - AWS
-      - GCP
-      - Alibaba Cloud
-      - Huawei Cloud
+  - Family: GenAI & LLMOps
+    Items: [Dify, LangChain, RAG, AI Agents]
+  - Family: Vector Databases
+    Items: [Milvus, Qdrant, Weaviate, ElasticSearch (Vector)]
+  - Family: Cloud & Infrastructure
+    Items: [Azure, AWS, GCP, Alibaba Cloud, Kubernetes, Docker, Terraform, Helm]
+  - Family: API & Middleware
+    Items: [Kong Gateway, Kong Mesh, Nginx, Lua, FastAPI, Node.js]
+  - Family: DevOps & Observability
+    Items: [GitHub/GitLab, ArgoCD, Prometheus, Grafana, Langfuse]
   - Family: Programming
-    Items:
-      - Python
-      - JavaScript/Typescript
-      - Lua
-      - SQL
-      - Bash
-  - Family: Frameworks
-    Items:
-      - Vue.js
-      - Angular.js
-      - Node.js
-      - Express.js
-      - FastAPI
-      - LangChain
-  - Family: Developer Tools
-    Items:
-      - GitHub
-      - Gitlab
-      - Azure DevOps
-      - Docker
-      - Kubernetes
-      - JFrog Artifactory
-      - Terraform
-      - Ansible
-      - Kong Gateway
-      - Kong Mesh
-      - Rancher
-      - ArgoCD
-      - FluxCD
-      - Prometheus
-      - Grafana
-      - Loki
-      - Elastic
+    Items: [Python, TypeScript/JavaScript, SQL, Bash]
 
 Languages:
   - Name: Cantonese
@@ -261,16 +141,5 @@ Diplomas:
   - Microsoft Certified Trainer - Microsoft
   - Microsoft Certified Azure Solutions Architect Expert - Microsoft
   - Microsoft Certified Azure DevOps Engineer Expert - Microsoft
-  - Microsoft Certified Azure Developer Associate - Microsoft
-  - Microsoft Certified Azure Administrator Associate - Microsoft
   - Microsoft Certified Azure AI Engineer Associate - Microsoft
-  - Microsoft Certified Azure Data Scientist Associate - Microsoft
   - Microsoft Certified Azure Security Engineer Associate - Microsoft
-
-# Interests:
-#   - Bouldering
-#   - Cooking
-#   - Windsurfing
-#   - Bossa Nova
-#   - Design
-#   - Languages
