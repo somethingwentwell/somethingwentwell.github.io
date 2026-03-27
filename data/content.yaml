@@ -89,6 +89,13 @@ Experience2:
           - Implementing enterprise-grade features including multi-tenant RBAC isolation, persistent long-term memory (memory.md), and workspace sandboxing
           - Building "Digital Employee" workflows and the "Plaza" knowledge feed for continuous organizational context sharing
         Badges: ['Multi-Agent Systems', 'MCP', 'Python']
+  - Employer: Microsoft
+    Positions:
+      - Title: Technical Trainer
+        Date: Jan 2025 - Oct 2025
+        Details:
+          - Delivered Microsoft technical training courses with a primary focus on Microsoft Copilot, GitHub Copilot, and application development
+        Badges: ['Technical Training', 'Microsoft Copilot', 'GitHub Copilot', 'Application Development']
   - Employer: Feva Works IT Education Centre
     Positions:
       - Title: Lead Trainer (Part-time)
