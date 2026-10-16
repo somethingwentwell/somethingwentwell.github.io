@@ -216,14 +216,33 @@ em { font-style: normal; color: var(--mint); background: var(--grad); -webkit-ba
           mask-image: linear-gradient(90deg, transparent, #000 12%, #000 88%, transparent);
 }
 .marquee__track {
-  display: flex; width: max-content; gap: 40px; align-items: center; white-space: nowrap;
-  font: 600 clamp(1.2rem, 2vw, 1.6rem) var(--display); letter-spacing: -0.02em; color: var(--muted);
-  animation: marquee 50s linear infinite;
+  display: flex; width: max-content; gap: 16px; align-items: center; margin: 0; padding: 0 16px 0 0;
+  animation: marquee 60s linear infinite;
 }
 .marquee:hover .marquee__track { animation-play-state: paused; }
-.marquee__track span { transition: color 0.3s; }
-.marquee__track span:hover { color: var(--mint); }
-.marquee__track i { font-style: normal; color: var(--mint); font-size: 0.6em; }
+
+/* customer logos sit on light tiles so every brand mark stays legible on the dark page */
+.marquee__logo, .client {
+  flex: none; display: flex; align-items: center; justify-content: center; border-radius: 14px;
+  background: #eef2f1; border: 1px solid rgba(255, 255, 255, 0.12);
+  transition: background 0.35s, transform 0.4s var(--ease), box-shadow 0.4s;
+}
+.marquee__logo { width: 168px; height: 72px; padding: 14px 20px; }
+.marquee__logo img, .client img {
+  width: 100%; height: 100%; min-width: 0; object-fit: contain;
+  filter: grayscale(1) contrast(1.1); opacity: 0.72; transition: filter 0.35s, opacity 0.35s;
+}
+.marquee__logo:hover, .client:hover { background: #fff; transform: translateY(-3px); box-shadow: 0 12px 30px -12px rgba(93, 242, 196, 0.45); }
+.marquee__logo:hover img, .client:hover img { filter: none; opacity: 1; }
+
+.clients { display: flex; align-items: center; flex-wrap: wrap; gap: 10px 14px; margin: -4px 0 20px; }
+.clients__label { color: var(--dim); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.12em; }
+.clients__list { display: flex; flex-wrap: wrap; gap: 8px; }
+.client { width: 116px; height: 50px; padding: 10px 14px; border-radius: 10px; }
+.client--wide { width: 176px; padding: 8px 12px; }
+.marquee__logo.client--wide { width: 240px; padding: 12px 16px; }
+.client--text span { font: 700 0.82rem var(--sans); color: #4b5553; letter-spacing: -0.01em; }
+.client--text:hover span { color: #0d1412; }
 @keyframes marquee { to { transform: translateX(-50%); } }
 
 /* ── about ── */
@@ -399,6 +418,9 @@ em { font-style: normal; color: var(--mint); background: var(--grad); -webkit-ba
   .job__when { padding: 0 0 10px; }
   .job__body { padding: 22px; }
   .job__body:hover { transform: none; }
+  .client { width: calc(50% - 4px); }
+  .clients__list { width: 100%; }
+  .marquee__logo { width: 136px; height: 60px; }
   .teaching__list { grid-template-columns: 1fr; }
 }
 @media (max-width: 560px) {

@@ -6,6 +6,16 @@
   const $$ = (s, el = document) => [...el.querySelectorAll(s)];
   const root = document.documentElement;
 
+  /* ── marquee: duplicate the logo set so the -50% scroll loops seamlessly ── */
+  const track = $('.marquee__track');
+  if (track) {
+    [...track.children].forEach((li) => {
+      const c = li.cloneNode(true);
+      c.setAttribute('aria-hidden', 'true');
+      track.append(c);
+    });
+  }
+
   /* ── year ── */
   $$('[data-year]').forEach((el) => (el.textContent = new Date().getFullYear()));
 
